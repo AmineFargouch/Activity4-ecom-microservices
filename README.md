@@ -31,11 +31,16 @@ Consul and Vault Integration: Secure configuration with Consul and dynamic secre
 <p>Explore the code to delve deeper into service functionalities.
 Deploy the application and experience the smooth online shopping journey.</p>
 
+<h3>FRONTEND ANGULAR </h3>
 
-<h3>Customers list</h3>
+<h5>Customers list</h5>
 <img src="captures/customers.jpg" width="700">
 <h5>Products list</h5>
 <img src="captures/products.jpg" width="700">
 <h5>Orders list</h5>
+<img src="captures/cust-orders.jpg" width="700">
+<h5>Order details</h5>
+<img src="captures/order-details.jpg" width="700">
+</details>
 
 
