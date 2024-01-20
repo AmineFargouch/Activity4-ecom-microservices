@@ -32,4 +32,15 @@ Consul and Vault Integration: Secure configuration with Consul and dynamic secre
 Deploy the application and experience the smooth online shopping journey.</p>
 
 
+<h5>Configuration des secrets avec vault</h5>
+<img src="captures/secrets.PNG" width="700">
+        </details>
+        <details>
+        <summary style="font-size:15px;cursor:pointer">📌 7. FRONTEND ANGULAR (Click to expand 🖱)</summary>
+<h5>Customers list</h5>
+<img src="captures/customers.jpg" width="700">
+<h5>Products list</h5>
+<img src="captures/products.jpg" width="700">
+<h5>Orders list</h5>
+
 
